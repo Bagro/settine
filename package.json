@@ -1,0 +1,19 @@
+{
+  "name": "settine",
+  "version": "1.0.0",
+  "description": "Store application settings for different envirnoments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bagro/settine.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bagro/settine/issues"
+  },
+  "homepage": "https://github.com/Bagro/settine#readme"
+}
